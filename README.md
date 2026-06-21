@@ -26,4 +26,6 @@ https://github.com/user-attachments/assets/9374d472-c7bf-4787-a742-1b183ceed250
   <img width="12" />
   <img src="https://github.com/catboylei/catboylei/blob/main/Fedora_logo.svg" height="40" alt="fedora" />
   <img width="12" />
+  <img src="https://github.com/catboylei/catboylei/blob/main/coreos-1-logo-svg-vector.svg" height="40" alt="fedora" />
+  <img width="12" />
 </div>
